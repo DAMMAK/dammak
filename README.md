@@ -51,6 +51,16 @@
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=dammak)](https://medium.com/@dammak)
 
 
+## 📝 Blogs
+
+- Personal website and blog: https://blog.dammak.dev
+- Setting up ESLINT in your JavaScript Project with VS Code: https://dev.to/devdammak/setting-up-eslint-in-your-javascript-project-with-vs-code-2amf
+- Beginner Guide to React Context API with Hook(useState): https://codeburst.io/beginner-guide-to-react-context-api-with-hook-usestate-4df7c3e08ad
+- Test Driven Development with Jest : https://codeburst.io/test-driven-development-with-jest-37e82ddb3989
+- Bundle your Web application with ParcelJS: https://codeburst.io/bundle-your-web-application-with-parceljs-b4eee99bdb55
+- Easy approach to multiple themes in flutter application: https://codeburst.io/managing-multiple-themes-in-flutter-application-37411adeb04c
+- How to run your flutter app on multiple emulator devices using vscode: https://blog.dammak.dev/how-to-run-your-flutter-app-on-multiple-emulator-devices-using-vscode
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
