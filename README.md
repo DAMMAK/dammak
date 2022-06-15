@@ -8,12 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/devdammak" target="blank"><img src="https://img.shields.io/twitter/follow/devdammak?logo=twitter&style=for-the-badge" alt="devdammak" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dammak&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
