@@ -48,8 +48,6 @@
 
 <hr/>
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=dammak)](https://medium.com/@dammak)
-
 
 ## 📝 Blogs
 
@@ -61,6 +59,8 @@
 - Easy approach to multiple themes in flutter application: https://codeburst.io/managing-multiple-themes-in-flutter-application-37411adeb04c
 - How to run your flutter app on multiple emulator devices using vscode: https://blog.dammak.dev/how-to-run-your-flutter-app-on-multiple-emulator-devices-using-vscode
 
+
+<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
