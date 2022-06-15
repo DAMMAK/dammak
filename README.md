@@ -1,7 +1,14 @@
 
 [![Illustration of tech gadget characters floating in space, with a Gatsby monogram logo front and center](busy.jpg)]
 
-I'm a Software Engineer who loves working and exploring things around Backend, Frontend and Mobile
+<h1 align="center">Hi 👋, I'm Damola Adekoya</h1>
+<h3 align="center">I'm Software Engineer with many years experience on fullstack and Mobile development</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dammak&label=Profile%20views&color=0e75b6&style=flat" alt="dammak" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dammak" alt="dammak" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/devdammak" target="blank"><img src="https://img.shields.io/twitter/follow/devdammak?logo=twitter&style=for-the-badge" alt="devdammak" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
