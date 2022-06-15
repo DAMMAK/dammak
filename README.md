@@ -22,6 +22,10 @@ Hi there wave, Iyiolol
 ![Profile views](https://gpvc.arturio.dev/dammak)  
 -->
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
