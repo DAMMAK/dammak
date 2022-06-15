@@ -27,3 +27,5 @@ Hi there wave, Iyiolol
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dammak&theme=buefy-dark)](https://git.io/streak-stats)
 
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord
