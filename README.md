@@ -28,10 +28,10 @@ Hi there wave, Iyiolol
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dammak&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dammak&theme=buefy-dark&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=dammak&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=dammak&show_icons=true&theme=buefy-dark&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
@@ -41,12 +41,7 @@ Hi there wave, Iyiolol
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=dammak&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=dammak&theme=buefy-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dammak&theme=buefy-dark)](https://git.io/streak-stats)
-
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord
