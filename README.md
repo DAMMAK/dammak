@@ -27,7 +27,7 @@ Hi there wave, Iyiolol
 [![trophy](https://github-profile-trophy.vercel.app/?username=dammak&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
