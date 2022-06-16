@@ -4,9 +4,22 @@
 <h1 align="center">Hi 👋, I'm Damola Adekoya</h1>
 <h3 align="center">I'm Software Engineer with many years experience on fullstack and Mobile development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dammak&label=Profile%20views&color=0e75b6&style=flat" alt="dammak" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=dammak&label=Profile%20views&color=0e75b6&style=flat" alt="dammak" /> 
+  <a href="https://twitter.com/devdammak" target="blank"><img src="https://img.shields.io/twitter/follow/devdammak?logo=twitter&style=for-the-badge" alt="devdammak" /></a>
 
-<p align="left"> <a href="https://twitter.com/devdammak" target="blank"><img src="https://img.shields.io/twitter/follow/devdammak?logo=twitter&style=for-the-badge" alt="devdammak" /></a> </p>
+</p>
+
+
+- 🌱 I’m currently learning **SwiftUI**
+
+- 📝 I regularly write articles on [blog.dammak.dev](blog.dammak.dev)
+
+- 📫 How to reach me **adekoyafelix@gmail.com**
+
+- 💬 Ask me about **Dart, Flutter, Swift, SwiftUI, Javascript, Typescript, NestJS**
+
+- ⚡ Fun fact **I love musical instruments especially when used to classical music.**
 
 ## 🏆 GitHub Trophies
 
