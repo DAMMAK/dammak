@@ -11,7 +11,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning and experimenting **SwiftUI**
 
 - 📝 I regularly write articles on [blog.dammak.dev](blog.dammak.dev)
 
