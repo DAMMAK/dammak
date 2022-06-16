@@ -13,13 +13,15 @@
 
 - 🌱 I’m currently learning and experimenting **SwiftUI**
 
+- 😄 Pronouns: He/Him
+
 - 📝 I regularly write articles on [blog.dammak.dev](blog.dammak.dev)
 
 - 📫 How to reach me **adekoyafelix@gmail.com**
 
 - 💬 Ask me about **Dart, Flutter, Swift, SwiftUI, Javascript, Typescript, NestJS**
 
-- ⚡ Fun fact **I love musical instruments especially when used to classical music.**
+- ⚡ Fun fact **I love musical instruments especially in classical music.**
 
 ## 🏆 GitHub Trophies
 
