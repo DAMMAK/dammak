@@ -37,6 +37,9 @@
 </p>
 
 <hr>
+<p align=center>
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+</p>
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://github.com/DAMMAK/DAMMAKK/blob/output/github-contribution-grid-snake.svg" width="100%">
